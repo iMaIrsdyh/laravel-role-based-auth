@@ -27,6 +27,7 @@
 
             <x-input-error :messages="$errors->get('no_hp')" class="mt-2" />
         </div>
+        <!-- No HP End-->
 
         <!-- Password -->
         <div class="mt-4">
